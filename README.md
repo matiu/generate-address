@@ -1,7 +1,7 @@
 generate-wallet
 ===============
 
-Generate bitcoin wallets in various format
+Generate bitcoin wallets in various formats
 
 ## Synopsis
 
