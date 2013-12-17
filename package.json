@@ -1,0 +1,33 @@
+{
+    "name": "generate-wallet",
+    "version": "0.0.1",
+    "private": false,
+    "dependencies": {
+        "classtool": "*",
+        "libcoin": "*",
+        "node-getopt": "*"
+    },
+    "author": {
+        "name": "Matias Alejo Garcia",
+        "email": "ematiu@gmail.com"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/ematiu/generate-wallet.git"
+    },
+    "bugs": {
+        "url": "https://github.com/ematiu/generate-wallet/issues"
+    },
+    "homepage": "https://github.com/ematiu/generate-wallet",
+    "license": "MIT",
+    "keywords": [
+        "bitcoin",
+        "wallet",
+        "generate",
+        "libcoin",
+        "wif"
+    ],
+    "engines": {
+        "node": "*"
+    } 
+}
