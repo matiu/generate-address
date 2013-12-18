@@ -1,6 +1,6 @@
 {
     "name": "generate-wallet",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "private": false,
     "dependencies": {
         "classtool": "*",
@@ -9,16 +9,16 @@
     },
     "author": {
         "name": "Matias Alejo Garcia",
-        "email": "ematiu@gmail.com"
+        "email": "ematiu (a) gmail.com"
     },
     "repository": {
         "type": "git",
-        "url": "git://github.com/ematiu/generate-wallet.git"
+        "url": "git://github.com/matiu/generate-wallet.git"
     },
     "bugs": {
-        "url": "https://github.com/ematiu/generate-wallet/issues"
+        "url": "https://github.com/matiu/generate-wallet/issues"
     },
-    "homepage": "https://github.com/ematiu/generate-wallet",
+    "homepage": "https://github.com/matiu/generate-wallet",
     "license": "MIT",
     "keywords": [
         "bitcoin",
